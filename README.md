@@ -28,9 +28,6 @@ conda activate vpred_env
 
 Download the example Nordland feature set using the link [here](https://cloudstor.aarnet.edu.au/plus/s/UgpN69h5VP2thG8).
 
-```
-wget -O compressed_features.npz https://cloudstor.aarnet.edu.au/plus/s/UgpN69h5VP2thG8/download
-```
 Note these features are derived from the partitioned Nordland testset published at http://webdiis.unizar.es/~jmfacil/pr-nordland/#download-dataset by David Olid et al in **Single-View Place Recognition under Seasonal Changes** *In PPNIV Workshop at IROS 2018*.
 
 Run the jupyterlab example notebook using:
